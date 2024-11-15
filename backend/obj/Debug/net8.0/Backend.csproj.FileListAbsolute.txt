@@ -1,0 +1,7 @@
+C:\git\smth_12\backend\obj\Debug\net8.0\Backend.csproj.AssemblyReference.cache
+C:\git\smth_12\backend\obj\Debug\net8.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\smth_12\backend\obj\Debug\net8.0\Backend.AssemblyInfoInputs.cache
+C:\git\smth_12\backend\obj\Debug\net8.0\Backend.AssemblyInfo.cs
+C:\git\smth_12\backend\obj\Debug\net8.0\Backend.csproj.CoreCompileInputs.cache
+C:\git\smth_12\backend\obj\Debug\net8.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\git\smth_12\backend\obj\Debug\net8.0\Backend.MvcApplicationPartsAssemblyInfo.cache
